@@ -10,6 +10,7 @@ dist/
 *.egg-info/
 .eggs/
 *.egg
+.env
 *.manifest
 *.spec
 *.log
